@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioApp</string>
+    <string name="tab1">Tab 1</string>
+    <string name="tab2">Tab 2</string>
+    <string name="audio1">Audio one</string>
+    <string name="audio2">Audio one</string>
+
+
+</resources>
